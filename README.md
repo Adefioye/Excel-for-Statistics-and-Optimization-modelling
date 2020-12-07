@@ -1,1 +1,1 @@
-# Excel-for-Statistics-and-Optimization-modellingg
+# Excel-for-Statistics-and-Optimization-modelling
